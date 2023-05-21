@@ -1,27 +1,24 @@
-<h1 align="center">Hi there, I'm krake747 👋</h1>
+# Hi there, I'm krake747 👋
 
-<p align="center"></p>
+## Welcome to my profile! 
 
-<h2 align="center">Languages and Technologies</h2>
-<p align="center">
+- 🏡 I am a financial risk analyst and software developer from Luxembourg.
+- 🌱 I am currently focusing on C#, .NET and Angular</p>
+<!--
+<p align="left"> 🔭 I’m currently working on ... </p>
+<p align="left"> 👯 I’m looking to collaborate on ... </p>
+<p align="left"> 🤔 I’m looking for help with ... </p>
+<p align="left"> 💬 Ask me about ... </p>
+<p align="left"> 📫 How to reach me: ... </p>
+<p align="left"> 😄 Pronouns: ... </p>
+<p align="left"> ⚡ Fun fact: ... </p>
+-->
+
+## Languages and Technologies
+<p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,py,ts,js" alt=".NET, C#, Python TypeScript, JavaScript" /></br>
-    <img src="https://skillicons.dev/icons?i=git,github,postgres,sqlite,nodejs,latex" alt="Git, GitHub, Postgres, MS Sql, Sqlite, Latex" /></br>
+    <img src="https://skillicons.dev/icons?i=angular,reactivex,nodejs,postgres,sqlite,git,github" alt="Angular, RxJS, NodeJs, Postgres, Sqlite, Git, GitHub" /></br>
     <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio" alt="Visual Studio Code, Visual Studio" /></br>  
   </a>
 </p>
-
-<!--
-**krake747/krake747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
