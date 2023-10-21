@@ -3,7 +3,7 @@
 ## Welcome to my profile! 
 
 - 🏡 I am a financial risk analyst and software developer from Luxembourg.
-- 🌱 I am currently focusing on C#, .NET and Angular</p>
+- 🌱 I am currently focusing on the .NET ecosystem, C# and some F#.
 <!--
 <p align="left"> 🔭 I’m currently working on ... </p>
 <p align="left"> 👯 I’m looking to collaborate on ... </p>
@@ -18,6 +18,6 @@
 <p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,py,ts,js,angular" alt=".NET, C#, Python TypeScript, JavaScript, Angular, " /></br>
-    <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,github" alt="Visual Studio Code, Visual Studio, GitHub" /></br>  
+    <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,github,git" alt="Visual Studio Code, Visual Studio, GitHub" /></br>  
   </a>
 </p>
