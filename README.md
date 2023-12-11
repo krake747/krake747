@@ -3,7 +3,7 @@
 ## Welcome to my profile! 
 
 - 🏡 I am a financial risk analyst and software developer from Luxembourg.
-- 🌱 I am currently focusing on the .NET ecosystem, primarily C# and some tinerking with F#.
+- 🌱 I am currently focusing on the .NET ecosystem, primarily C# and some tinkering with F#.
 <!--
 <p align="left"> 🔭 I’m currently working on ... </p>
 <p align="left"> 👯 I’m looking to collaborate on ... </p>
