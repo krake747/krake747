@@ -21,3 +21,7 @@
     <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,github,git" alt="Visual Studio Code, Visual Studio, GitHub" /></br>  
   </a>
 </p>
+
+## GitHub Gists
+
+[My GitHub Gists](https://gist.github.com/krake747)
