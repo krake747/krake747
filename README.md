@@ -4,8 +4,8 @@
 
 - 🏡 I am a financial risk analyst and software developer from Luxembourg.
 - 🌱 I am currently focusing on the .NET ecosystem, primarily C# and some tinkering with F#.
+- 🔭 I’m currently working on a web application using .NET and Angular [krake-app](https://krake747.github.io/krake-angular/home)
 <!--
-<p align="left"> 🔭 I’m currently working on ... </p>
 <p align="left"> 👯 I’m looking to collaborate on ... </p>
 <p align="left"> 🤔 I’m looking for help with ... </p>
 <p align="left"> 💬 Ask me about ... </p>
