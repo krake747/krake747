@@ -17,8 +17,8 @@
 ## Languages and Technologies
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,py,ts,js,angular" alt=".NET, C#, Python TypeScript, JavaScript, Angular, " /></br>
-    <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,github,git" alt="Visual Studio Code, Visual Studio, GitHub" /></br>  
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,py,ts,js,html,css,angular" alt=".NET, C#, Python TypeScript, JavaScript, HTML, CSS, Angular, " /></br>
+    <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,github,git,postgres,docker" alt="JetBrains Rider, Visual Studio Code, Visual Studio, GitHub, Git, Postgres, Docker" /></br>  
   </a>
 </p>
 
