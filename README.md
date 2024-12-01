@@ -14,7 +14,7 @@
 <p align="left"> ⚡ Fun fact: ... </p>
 -->
 
-## Languages and Technologies
+## Tech Stack
 <p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,py,ts,js,html,css,angular" alt=".NET, C#, Python TypeScript, JavaScript, HTML, CSS, Angular, " /></br>
