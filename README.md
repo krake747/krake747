@@ -19,7 +19,7 @@
 ## Tech Stack
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,py,ts,js,angular,react,html,css,tailwind" alt=".NET, C#, Python TypeScript, JavaScript, HTML, CSS, Angular, " /></br>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,py,ts,js,angular,react,html,css,tailwind,vite,vitest" alt=".NET, C#, Python TypeScript, JavaScript, HTML, CSS, Angular, " /></br>
     <img src="https://skillicons.dev/icons?i=rider,vscode,github,git,pnpm,postgres,mongodb,ubuntu,kubernetes,docker" alt="JetBrains Rider, Visual Studio Code, GitHub, Git, Postgres, Docker" /></br>  
   </a>
 </p>
