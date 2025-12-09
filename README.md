@@ -17,12 +17,10 @@
 -->
 
 ## Tech Stack
-<p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,py,ts,js,angular,react,html,css,tailwind,vite,vitest" alt=".NET, C#, Python TypeScript, JavaScript, HTML, CSS, Angular, " /></br>
-    <img src="https://skillicons.dev/icons?i=rider,vscode,github,git,pnpm,postgres,mongodb,ubuntu,kubernetes,docker" alt="JetBrains Rider, Visual Studio Code, GitHub, Git, Postgres, Docker" /></br>  
-  </a>
-</p>
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind" alt="React, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=dotnet,cs,go,python,postgres,mongodb" alt=".NET, C#, Python, Postgres, MongoDB" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=ubuntu,rider,vscode,git,github,docker,kubernetes,pnpm,vite" alt="Ubuntu, Rider, VS Code, Docker, Kubernetes, Git, GitHub, PNPM, Vite" /> </p>
 
 ## GitHub Gists
 
