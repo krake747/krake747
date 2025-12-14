@@ -7,6 +7,9 @@
 - ⚛️ Exploring React and TanStack for modern, performant frontends.
 - 🔮 Looking forward to exploring SolidJS and Gleam in the future.
 - 🚴 Fun fact: I enjoy cycling in my free time!
+
+[About me](https://www.kevinkraemer.com/)
+
 <!--
 <p align="left"> 👯 I’m looking to collaborate on ... </p>
 <p align="left"> 🤔 I’m looking for help with ... </p>
