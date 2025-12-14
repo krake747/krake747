@@ -22,6 +22,8 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=dotnet,cs,go,python,postgres,mongodb" alt=".NET, C#, Python, Postgres, MongoDB" /> </p>
 <p align="left"> <img src="https://skillicons.dev/icons?i=ubuntu,rider,vscode,git,github,docker,kubernetes,pnpm,vite" alt="Ubuntu, Rider, VS Code, Docker, Kubernetes, Git, GitHub, PNPM, Vite" /> </p>
 
+<!--
 ## GitHub Gists
 
 [My GitHub Gists](https://gist.github.com/krake747)
+-->
