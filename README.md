@@ -1,18 +1,17 @@
 # Hi there, I'm krake747 👋
 
-## Welcome to my profile! 
+## Welcome to my profile
 
-- 🏡 I am a full stack software developer and former financial risk analyst from Luxembourg.
-- 🌱 I am currently focusing on the .NET ecosystem, primarily C# and some tinkering with F#.
-- ⚛️ Exploring React and TanStack for modern, performant frontends.
-- 🔮 Looking forward to exploring SolidJS and Gleam in the future.
-- 🚴 Fun fact: I enjoy cycling in my free time!
+🌱 I help build full-stack systems with .NET, C#, and Go
+⚛️ I build modern UIs with React and TanStack
+🤔 I am curious about SolidJS, Gleam, and making design choices that don’t annoy users
+🎯 I ship early, iterate fast, and learn constantly
+🚴 I enjoy road and gravel cycling (and the occasional competitive itch)
 
-[About me](https://www.kevinkraemer.com/)
+I started in finance, automating spreadsheets with Python, and transitioned into software. Today I build full-stack web apps with a small team, exploring new tech while still enjoying conversations about finance and strategy. ([kevinkraemer.com](https://www.kevinkraemer.com/))
 
 <!--
 <p align="left"> 👯 I’m looking to collaborate on ... </p>
-<p align="left"> 🤔 I’m looking for help with ... </p>
 <p align="left"> 💬 Ask me about ... </p>
 <p align="left"> 📫 How to reach me: ... </p>
 <p align="left"> 😄 Pronouns: ... </p>
