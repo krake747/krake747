@@ -2,11 +2,11 @@
 
 ## Welcome to my profile
 
-🌱 I help build full-stack systems with .NET, C#, and Go
-⚛️ I build modern UIs with React and TanStack
-🤔 I am curious about SolidJS, Gleam, and making design choices that don’t annoy users
-🎯 I ship early, iterate fast, and learn constantly
-🚴 I enjoy road and gravel cycling (and the occasional competitive itch)
+<p align="left"> 🌱 I help build full-stack systems with .NET, C#, and Go</p>
+<p align="left"> ⚛️ I build modern UIs with React and TanStack</p>
+<p align="left"> 🤔 I am curious about SolidJS, Gleam, and making design choices that don’t annoy users</p>
+<p align="left"> 🎯 I ship early, iterate fast, and learn constantly</p>
+<p align="left"> 🚴 I enjoy road and gravel cycling (and the occasional competitive itch) </p>
 
 I started in finance, automating spreadsheets with Python, and transitioned into software. Today I build full-stack web apps with a small team, exploring new tech while still enjoying conversations about finance and strategy. ([kevinkraemer.com](https://www.kevinkraemer.com/))
 
