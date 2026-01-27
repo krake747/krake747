@@ -6,6 +6,7 @@ I started in finance, automating spreadsheets with Python, and transitioned into
 
 - 🌱 I help build full-stack systems with .NET, C#, and Go
 - ⚛️ I build modern UIs with React and TanStack
+- ⚙️ I love developing with Docker and want to get better at managing Kubernetes
 - 🤔 I am curious about SolidJS, Gleam, and making design choices that don’t annoy users
 - 🎯 I ship early, iterate fast, and learn constantly
 - 🚴 I enjoy road and gravel cycling (and the occasional competitive itch)
